@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Location",
+      "value": "Hamilton Island"
+    },
+    {
+      "trait_type": "Purpose",
+      "value": "Wedding"
+    }
+  ],
+  "description": "JUMP",
+  "image": "https://gateway.pinata.cloud/ipfs/QmWPPN3jPQnVvVN6AWWL1HQsT4s2dY3kz91WdygNytZ7iC",
+  "name": "Wedding"
+}

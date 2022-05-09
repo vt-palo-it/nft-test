@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Location",
+      "value": "Lab"
+    },
+    {
+      "trait_type": "Purpose",
+      "value": "Cooling"
+    }
+  ],
+  "description": "Is it chilli in here?",
+  "image": "https://gateway.pinata.cloud/ipfs/QmaxLDHneJP12gqs6UNNk8xZJUREQDX5d3JXyKcFABz6fs",
+  "name": "JG"
+}
